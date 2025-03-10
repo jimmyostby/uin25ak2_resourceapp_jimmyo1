@@ -5,13 +5,15 @@
 
 header{
     background-color: #fff;
-    width: 700px;
+    width: 100%;
     display: flex;
-    align-items: center;
-    margin: 0 auto;
-
+    
+    margin-left: 0px;
+    margin-right: 0px;
+    
     nav{
         display: flex;
+        width: 100%;
 
         ul{
             display: flex;
@@ -22,12 +24,16 @@ header{
             margin: 0;
 
             li{
-                padding: 20px;
+                padding: 30px;
             }
             
                 a{
-                    text-decoration: none;
                     color: black;
+                }
+
+                a:hover{
+                    text-decoration: none;
+                    color: red;
                 }
                 
             
@@ -40,9 +46,15 @@ main {
     background-color: #fff;
     margin: 0;
 
+    h1{
+        text-align: left;
+    }
+
     article{
-        width: 800px;
+        display: flex;
+        width: 500px;
         margin: 0;
+        text-align: left;
 
         ul{
             list-style: none;
