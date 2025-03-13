@@ -10,7 +10,7 @@ export default function Resources ({category}) {
         
             <PageTitle sideTittel={filtered [0].category} />
             {filtered.map((filteritem) => 
-    <article key={filteritem.id}>
+    <article key={filteritem.title}>
         <h3 id="overskrift">{filteritem.title}</h3>
         <ul>
             <li>
