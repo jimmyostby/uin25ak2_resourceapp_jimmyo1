@@ -23,3 +23,9 @@ export default function Resources ({category}) {
         </>
     )
 }
+
+/*
+Har fått hjelp av medstudent Hanna Hënel Sørum til å lage en filterfunksjon
+som filtrerer ut informasjonen fra resources.js og legger disse i et eget objekt.
+Har også fått hjelp til å ta i bruk .map funksjonen som mapper igjennom informasjon fra resources.js. 
+*/

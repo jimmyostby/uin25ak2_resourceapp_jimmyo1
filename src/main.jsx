@@ -9,4 +9,4 @@ createRoot(document.getElementById('root')).render(
     <App />
   </BrowserRouter>,
 )
-//Endret om til BR fra linje...
+//Endret til BrowserRouter fra linje 8-10 

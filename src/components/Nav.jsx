@@ -26,3 +26,5 @@ export default function Nav() {
         </header>
     )
 }
+
+/*Lagd et komponent for navigasjonen på siden som linker til de ulike resurssene som skal bli vist.*/
