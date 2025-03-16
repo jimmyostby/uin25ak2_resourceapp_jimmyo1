@@ -25,7 +25,7 @@ export default function Resources ({category}) {
 }
 
 /*
-Har fått hjelp av medstudent Hanna Hënel Sørum til å lage en filterfunksjon
-som filtrerer ut informasjonen fra resources.js og legger disse i et eget objekt.
-Har også fått hjelp til å ta i bruk .map funksjonen som mapper igjennom informasjon fra resources.js. 
+Har fått hjelp av medstudent Hanna Hënel Sørum på kodelinje 4 - 25 til å implementere en filterfunksjon
+som filtrerer ut informasjonen fra resources.js. Har også fått hjelp til å plassere .map funksjonen på rett sted i koden
+HTML-struktur er satt opp selv. 
 */

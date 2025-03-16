@@ -16,5 +16,5 @@ export default function Layout({children}) {
     )
 }
 
-/*Fått hjelp av medstudent Hanna Hënel Sørum til å sette opp funksjonen for layout på siden fra kodelinje 4-17. HTML-strukturen er 
-gjort selv.*/
+/*Fått hjelp av medstudent Hanna Hënel Sørum til å sette opp funksjonen for layout på siden fra kodelinje 4 - 17. HTML-strukturen er 
+gjort selv, samt importen.*/

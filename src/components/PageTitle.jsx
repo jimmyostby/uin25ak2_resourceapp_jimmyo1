@@ -3,5 +3,5 @@ export default function PageTitle({sideTittel}) {
 }
 
 /*
-Fått hjelp av medstudent Hanna Hënel Sørum til å ta i bruke funksjonen PageTitle. 
+Fått hjelp av medstudent Hanna Hënel Sørum til å ta i bruke funksjonen PageTitle på kodelinje 1 - 3.
 */

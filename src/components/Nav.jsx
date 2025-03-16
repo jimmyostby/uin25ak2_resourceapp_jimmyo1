@@ -27,4 +27,8 @@ export default function Nav() {
     )
 }
 
-/*Lagd et komponent for navigasjonen på siden som linker til de ulike resurssene som skal bli vist.*/
+/*
+Lagd et komponent for navigasjonen på siden som linker til de ulike resurssene som skal bli vist. 
+Medstudent Hanna Hënel Sørum har forklart hvordan link-funksjonen fungerer, har selv satt det opp 
+etter en gjennomgang og forklaring fra henne.
+*/
