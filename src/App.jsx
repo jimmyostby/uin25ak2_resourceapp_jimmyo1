@@ -25,4 +25,4 @@ function App() {
 export default App
 
 /*Har fått hjelp av medstudent Hanna Hënel Sørum til å legge opp ruter til de ulike fanene (knappene) på nettstedets
-navigasjon, fra kodelinje 7 - 23.*/ 
+navigasjon, fra kodelinje 7 - 23. */ 
